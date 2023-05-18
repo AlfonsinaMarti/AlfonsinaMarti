@@ -11,10 +11,7 @@ Spanish
 English
 
 ## Skills:
-[![MySQL](https://img.shields.io/static/v1?label=< >&message=<MySQL>&color=<101010>style=plastic&logo=appveyor)]()
-[![Python](style=plastic&logo=appveyorColor=white&labelColor=101010)]()
-[![C++](style=plastic&logo=appveyorColor=white&labelColor=101010)]()
-</br>
-[![Power BI](style=plastic&logo=appveyorColor=white&labelColor=101010)]()
-[![Assembly](style=plastic&logo=appveyorColor=white&labelColor=101010)]()
-</br>
+![MySQL](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![Power BI](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
+![Python](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+![C++](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
