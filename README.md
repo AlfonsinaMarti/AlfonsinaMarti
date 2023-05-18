@@ -11,10 +11,10 @@ Spanish
 English
 
 ## Skills:
-[![MySQL](style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Python](style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![C++](style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+[![MySQL](style=?style=plastic&logo=appveyorColor=white&labelColor=101010)]()
+[![Python](style=?style=plastic&logo=appveyorColor=white&labelColor=101010)]()
+[![C++](style=?style=plastic&logo=appveyorColor=white&labelColor=101010)]()
 </br>
-[![Power BI](style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Assembly](style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Power BI](style=?style=plastic&logo=appveyorColor=white&labelColor=101010)]()
+[![Assembly](style=?style=plastic&logo=appveyorColor=white&labelColor=101010)]()
 </br>
