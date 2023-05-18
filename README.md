@@ -8,8 +8,8 @@
 🌱I am constantly training in the incredible areas of data science and data analysis
 
 ## Languages:
-Spanish
-English
+![Spanish](https://img.shields.io/badge/Spanish-F75130?style=for-the-badge&logo=Spanish&logoColor=white&labelColor=101010)</br>
+![English](https://img.shields.io/badge/English-24B02A?style=for-the-badge&logo=English&logoColor=white&labelColor=101010)</br>
 
 ## Skills:
 ![MySQL](https://img.shields.io/badge/MySQL-F75130?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)</br>
