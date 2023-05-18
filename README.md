@@ -11,10 +11,10 @@ Spanish
 English
 
 ## Skills:
-[![MySQL](style=?style=plastic&logo=appveyorColor=white&labelColor=101010)]()
-[![Python](style=?style=plastic&logo=appveyorColor=white&labelColor=101010)]()
-[![C++](style=?style=plastic&logo=appveyorColor=white&labelColor=101010)]()
+[![MySQL](style=plastic&logo=appveyorColor=white&labelColor=101010)]()
+[![Python](style=plastic&logo=appveyorColor=white&labelColor=101010)]()
+[![C++](style=plastic&logo=appveyorColor=white&labelColor=101010)]()
 </br>
-[![Power BI](style=?style=plastic&logo=appveyorColor=white&labelColor=101010)]()
-[![Assembly](style=?style=plastic&logo=appveyorColor=white&labelColor=101010)]()
+[![Power BI](style=plastic&logo=appveyorColor=white&labelColor=101010)]()
+[![Assembly](style=plastic&logo=appveyorColor=white&labelColor=101010)]()
 </br>
