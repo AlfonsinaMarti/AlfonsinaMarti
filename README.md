@@ -11,7 +11,7 @@ Spanish
 English
 
 ## Skills:
-[![MySQL](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>style=plastic&logo=appveyorColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/static/v1?label=< >&message=<MySQL>&color=<101010>style=plastic&logo=appveyorColor=white&labelColor=101010)]()
 [![Python](style=plastic&logo=appveyorColor=white&labelColor=101010)]()
 [![C++](style=plastic&logo=appveyorColor=white&labelColor=101010)]()
 </br>
