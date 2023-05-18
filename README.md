@@ -12,7 +12,7 @@ Spanish
 English
 
 ## Skills:
-![MySQL](https://img.shields.io/badge/MySQL-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![MySQL](https://img.shields.io/badge/MySQL-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=red)</br>
 ![Power BI](https://img.shields.io/badge/Power_BI-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
 ![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
 ![C++](https://img.shields.io/badge/C++-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
